@@ -92,18 +92,22 @@
     <string name="tools_title">TOOLS</string>
     <string name="back_button">Back Button</string>
     <!--/================NAVIGATION BAR============================/-->
-    <string name="calculator">BMI Tools</string>
+    <string name="calculator">Calculator</string>
     <string name="calculate">Calculate</string>
     <!--/=================BMI Calculator CONTENT=============================/-->
     <string name="weight_hint"> KG</string>
     <string name="weight">Weight</string>
     <string name="height">Height</string>
     <string name="height_hint">M</string>
-    <string name="bmi_quote">Your Final BMI is </string>
-    <string name="bmi_hint">kg/m²</string>
-    <string name="bmi_result">%s </string>
-    <string name="bmi_sentence_1">Your BMI level is</string>
-    <string name="bmi_sentence">%s</string>
+    <string name="age_hint">age</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="result_quote">Your Results are</string>
+    <string name="result_hint">Fat Percentage &amp; BMI</string>
+    <string name="final_result">%s </string>
+    <string name="FP_sentence_1">Your Fat Percentage Level is</string>
+    <string name="FP_sentence">%s</string>
     <string name="unsatisfied">  Unsatisfied  </string>
     <string name="moderate">  Moderate  </string>
     <string name="satisfied">  Satisfied  </string>
@@ -165,5 +169,6 @@
     <string name="lunch_title">Lunch 🥣</string>
     <string name="dinner_title">Dinner 🍜</string>
     <string name="newFoodPlanPageTitle">New Food Plan</string>
+
 
 </resources>

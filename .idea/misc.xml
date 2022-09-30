@@ -4,11 +4,26 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/DY3S1/MAP/Assignment/Assignment_latest_Healthify-master/app/src/main/res/drawable/button_login.xml" value="0.2265" />
+        <entry key="..\:/DY3S1/MAP/Assignment/Assignment_latest_Healthify-master/app/src/main/res/drawable/calculator.xml" value="0.2265" />
         <entry key="..\:/DY3S1/MAP/Assignment/Assignment_latest_Healthify-master/app/src/main/res/drawable/custom_button.xml" value="0.2265" />
+        <entry key="..\:/DY3S1/MAP/Assignment/Assignment_latest_Healthify-master/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.2265" />
+        <entry key="..\:/DY3S1/MAP/Assignment/Assignment_latest_Healthify-master/app/src/main/res/drawable/ic_baseline_age.xml" value="0.2265" />
+        <entry key="..\:/DY3S1/MAP/Assignment/Assignment_latest_Healthify-master/app/src/main/res/layout/activity_add_new_food_plan.xml" value="0.22826086956521738" />
         <entry key="..\:/DY3S1/MAP/Assignment/Assignment_latest_Healthify-master/app/src/main/res/layout/activity_bmicalculator.xml" value="0.22826086956521738" />
+        <entry key="..\:/DY3S1/MAP/Assignment/Assignment_latest_Healthify-master/app/src/main/res/layout/activity_calculator.xml" value="0.264" />
+        <entry key="..\:/DY3S1/MAP/Assignment/Assignment_latest_Healthify-master/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/DY3S1/MAP/Assignment/Assignment_latest_Healthify-master/app/src/main/res/layout/activity_main2.xml" value="0.22826086956521738" />
+        <entry key="..\:/DY3S1/MAP/Assignment/Assignment_latest_Healthify-master/app/src/main/res/layout/activity_reminder.xml" value="0.22826086956521738" />
+        <entry key="..\:/DY3S1/MAP/Assignment/Assignment_latest_Healthify-master/app/src/main/res/layout/activity_timers.xml" value="0.22826086956521738" />
+        <entry key="..\:/DY3S1/MAP/Assignment/Assignment_latest_Healthify-master/app/src/main/res/layout/activity_workout.xml" value="0.22826086956521738" />
+        <entry key="..\:/DY3S1/MAP/Assignment/Assignment_latest_Healthify-master/app/src/main/res/layout/card_cell.xml" value="0.22826086956521738" />
+        <entry key="..\:/DY3S1/MAP/Assignment/Assignment_latest_Healthify-master/app/src/main/res/layout/custom_row.xml" value="0.22826086956521738" />
+        <entry key="..\:/DY3S1/MAP/Assignment/Assignment_latest_Healthify-master/app/src/main/res/layout/deletepage.xml" value="0.22826086956521738" />
+        <entry key="..\:/DY3S1/MAP/Assignment/Assignment_latest_Healthify-master/app/src/main/res/layout/deletepagedetails.xml" value="0.22826086956521738" />
         <entry key="..\:/DY3S1/MAP/Assignment/Assignment_latest_Healthify-master/app/src/main/res/layout/firstpage.xml" value="0.22826086956521738" />
         <entry key="..\:/DY3S1/MAP/Assignment/Assignment_latest_Healthify-master/app/src/main/res/layout/home.xml" value="0.22826086956521738" />
         <entry key="..\:/DY3S1/MAP/Assignment/Assignment_latest_Healthify-master/app/src/main/res/layout/login.xml" value="0.22826086956521738" />
+        <entry key="..\:/DY3S1/MAP/Assignment/Assignment_latest_Healthify-master/app/src/main/res/layout/newfoodplan.xml" value="0.22826086956521738" />
         <entry key="..\:/DY3S1/MAP/Assignment/Assignment_latest_Healthify-master/app/src/main/res/layout/signup.xml" value="0.22826086956521738" />
         <entry key="..\:/RSD/Y3S1/Mobile Application Development/app/src/main/res/drawable/button_login.xml" value="0.1" />
         <entry key="..\:/RSD/Y3S1/Mobile Application Development/app/src/main/res/drawable/home_bg.xml" value="0.1" />

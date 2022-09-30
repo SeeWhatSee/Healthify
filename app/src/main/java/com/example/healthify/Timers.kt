@@ -225,7 +225,7 @@ class Timers : AppCompatActivity() {
 //    }
 
     private fun bmi() {
-        val intent = Intent(this, BMICalculator::class.java)
+        val intent = Intent(this, Calculator::class.java)
         startActivity(intent)
     }
 

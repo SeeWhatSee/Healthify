@@ -231,7 +231,7 @@
                     android:layout_marginBottom="20dp"
                     android:background="@drawable/roundededittextbtn"
                     android:text="Add Now!"
-                    android:textColor="@color/black" />
+                    android:textColor="@color/black"/>
 
 
             </LinearLayout>

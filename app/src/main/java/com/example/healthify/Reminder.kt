@@ -504,7 +504,7 @@ class Reminder : AppCompatActivity(){
     @RequiresApi(Build.VERSION_CODES.O)
     private fun bmi(){
         saveData()
-        val intent = Intent(this, BMICalculator::class.java)
+        val intent = Intent(this, Calculator::class.java)
         startActivity(intent)
     }
 

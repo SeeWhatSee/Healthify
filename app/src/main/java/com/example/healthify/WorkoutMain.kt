@@ -6,11 +6,8 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.GridLayoutManager
 import com.example.healthify.databinding.ActivityWorkoutBinding
 import com.example.healthify.model.WORK_ID_EXTRA
-import kotlinx.android.synthetic.main.activity_bmicalculator.*
-import kotlinx.android.synthetic.main.activity_bmicalculator.bottom_nav
-import kotlinx.android.synthetic.main.activity_main.*
+import kotlinx.android.synthetic.main.activity_calculator.bottom_nav
 import kotlinx.android.synthetic.main.activity_main.switchbut
-import kotlinx.android.synthetic.main.activity_workout.*
 
 
 class WorkoutMain : AppCompatActivity(), OnWorkoutClickListener {
@@ -299,7 +296,7 @@ startActivity(intent)
     private fun tools() {
         val name = intent.getStringExtra("username")
         val context = binding.bottomNav.context
-        val intent = Intent(context, BMICalculator::class.java)
+        val intent = Intent(context, Calculator::class.java)
         intent.putExtra("username", name);
         startActivity(intent)
     }

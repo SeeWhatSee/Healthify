@@ -37,7 +37,7 @@ class Signup : AppCompatActivity() {
         }
 
         binding.age.doOnTextChanged { text, start, before, count ->
-            if (text!!.length > 1) {
+            if (text!!.length > 3) {
                 binding.userage.error = "Please enter a valid age"
             } else if (text!!.length < 2) {
                 binding.userage.error = null

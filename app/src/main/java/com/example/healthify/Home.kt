@@ -5,7 +5,6 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
 import android.view.Menu
-import android.view.MenuItem
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
@@ -133,7 +132,7 @@ class Home : AppCompatActivity() {
     private fun tools() {
         val name = intent.getStringExtra("username")
         val context = binding.bottomNav.context
-        val intent = Intent(context, BMICalculator::class.java)
+        val intent = Intent(context, Calculator::class.java)
         intent.putExtra("username", name);
         startActivity(intent)
     }

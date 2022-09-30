@@ -161,7 +161,7 @@ class SelectedPage : AppCompatActivity() {
     private fun tools() {
         val name = intent.getStringExtra("username")
         val context = selectedPage.bottomNav.context
-        val intent = Intent(context, BMICalculator::class.java)
+        val intent = Intent(context, Calculator::class.java)
         intent.putExtra("username", name);
         startActivity(intent)
     }
